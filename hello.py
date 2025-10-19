@@ -149,6 +149,6 @@ def main():
     except Exception as e:
         print(f"\nAn unexpected error occurred: {e}")
         sys.exit(1)
-# execute this main method
+# execute this main method to start programmer
 if __name__ == "__main__":
     main()
